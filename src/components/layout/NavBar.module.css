@@ -1,0 +1,27 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+    background-color: #222;
+    height: 12vh;
+    align-items: center;
+}
+
+.list{
+    display: flex;
+    list-style: none;
+    align-items: center;  
+    justify-content: space-between;
+    width: 25%;
+    margin-right: 20px;
+    
+}
+
+.list a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.list a:hover{
+    color: #ffbb33
+}

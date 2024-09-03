@@ -1,0 +1,38 @@
+{
+  "projects": [
+    {
+      "id": "bdd5",
+      "name": "compra de carro",
+      "budget": "20000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento",
+        "color": "#fbe7cc"
+      },
+      "cost": 0,
+      "service": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "infra",
+      "color": "#fbfb33"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento",
+      "color": "#7b7b"
+    },
+    {
+      "id": "3",
+      "name": "Desing",
+      "color": "#222"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento",
+      "color": "#ffbb33"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+.container{
+    padding: 1em;
+    width: 85%;
+}
+
+.init{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.init h1{
+    background-color: #222;
+    color: #ffbb33;
+    padding: 0.3em;
+    margin-bottom: 0.5em;
+}
+.init button{
+    color: #fff;
+    background-color:#222;
+    padding: 1px;
+    margin: 5px;
+    width: auto;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+}
+.init button:hover{
+    color: #ffbb22;
+}
+.infoEdit {
+    border-bottom: 1px solid #222;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+.infoEdit span{
+    font-weight: bold;
+}
+.infoEdit p{
+    margin-bottom: 5px;
+}
+
+.form{
+    border-bottom: 1px solid #222;
+}
+.form form{
+   margin-bottom: 10px;
+}
+.cardService{
+    margin-top: 10px
+}

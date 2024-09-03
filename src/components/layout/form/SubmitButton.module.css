@@ -1,0 +1,16 @@
+
+.btn button{
+    min-width: 115px;
+    min-height: 35px;
+    background-color: #222;
+    color: #FFF;
+    padding: 0.7em 1.2em;
+    text-decoration: none;
+    border: none;
+    transition: 0.5;
+    cursor: pointer;
+}
+
+.btn button:hover {
+    color: #ffbb33;
+}

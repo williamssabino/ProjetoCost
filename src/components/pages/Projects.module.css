@@ -1,0 +1,10 @@
+.container{
+    width: 100%;
+}
+.start {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 3em;
+}

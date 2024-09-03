@@ -1,0 +1,32 @@
+.footer{
+    background-color: #222;
+    height: 15vh;
+    width: 100%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.list{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.list li{
+    text-decoration: none;
+    padding: 10px;
+}
+
+.section{
+    display: flex;
+}
+
+.section p{
+    padding: 10px;
+}
